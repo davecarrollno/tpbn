@@ -3,18 +3,18 @@
         "id": "1",
         "title": "Example Latest News Story One",
         "description": "Example latest news story one",
-        "url": "https://github.com/davecarrollno/tpbn/blob/main/news1.html"
+        "url": "https://www.apple.com"
     },
     {
         "id": "2",
         "title": "Example Latest News Story Two",
         "description": "Example latest news story two",
-        "url": "https://github.com/davecarrollno/tpbn/blob/main/news1.html"
+        "url": "https://google.com"
     },
     {
         "id": "3",
         "title": "Example Latest News Story Three",
         "description": "Example latest news story three",
-        "url": "https://github.com/davecarrollno/tpbn/blob/main/news1.html"
+        "url": "https://www.bing.com"
     }
 ]
