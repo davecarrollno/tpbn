@@ -1,20 +1,20 @@
 [
     {
         "id": "1",
-        "title": "TurningPoint Uncovers Fraud",
-        "description": "TurningPoint has found politicians in the Storting have illegally allocated funds",
-        "url": "https://www.example.no/news/fraud-investigation"
+        "title": "Example Latest News Story One",
+        "description": "Example latest news story one",
+        "url": "https://github.com/davecarrollno/tpbn/blob/main/news1.html"
     },
     {
         "id": "2",
-        "title": "Norway to Send 10B kr to Ukraine",
-        "description": "Norway is once again sending 10 billion crowns to Ukraine",
-        "url": "https://www.example.no/news/norway-ukraine-aid"
+        "title": "Example Latest News Story Two",
+        "description": "Example latest news story two",
+        "url": "https://github.com/davecarrollno/tpbn/blob/main/news1.html"
     },
     {
         "id": "3",
-        "title": "Electrical Rates to Rise Again",
-        "description": "Norwegians are bracing for another increase in utility rates",
-        "url": "https://www.example.no/news/electricity-rates-increase"
+        "title": "Example Latest News Story Three",
+        "description": "Example latest news story three",
+        "url": "https://github.com/davecarrollno/tpbn/blob/main/news1.html"
     }
 ]
