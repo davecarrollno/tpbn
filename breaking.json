@@ -1,3 +1,4 @@
+[
     {
         "id": "1",
         "title": "Example Latest News Story One",
@@ -16,3 +17,4 @@
         "description": "Example latest news story three",
         "url": "https://www.bing.com"
     }
+]
