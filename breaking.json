@@ -1,12 +1,20 @@
 [
     {
         "id": "1",
-        "title": "Breaking News Title 1",
-        "description": "Description of the breaking news item"
+        "title": "TurningPoint Uncovers Fraud",
+        "description": "TurningPoint has found politicians in the Storting have illegally allocated funds",
+        "url": "https://www.example.no/news/fraud-investigation"
     },
     {
         "id": "2",
-        "title": "Breaking News Title 2",
-        "description": "Description of the breaking news item"
+        "title": "Norway to Send 10B kr to Ukraine",
+        "description": "Norway is once again sending 10 billion crowns to Ukraine",
+        "url": "https://www.example.no/news/norway-ukraine-aid"
+    },
+    {
+        "id": "3",
+        "title": "Electrical Rates to Rise Again",
+        "description": "Norwegians are bracing for another increase in utility rates",
+        "url": "https://www.example.no/news/electricity-rates-increase"
     }
 ]
