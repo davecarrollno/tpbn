@@ -3,18 +3,21 @@
         "id": "1",
         "title": "Example Latest News Story One",
         "description": "Example latest news story one",
-        "url": "https://www.apple.com"
+        "url": "https://www.apple.com",
+        "date": "05-01-2026"
     },
     {
         "id": "2",
         "title": "Example Latest News Story Two",
         "description": "Example latest news story two",
-        "url": "https://google.com"
+        "url": "https://google.com",
+        "date": "04-29-2026"
     },
     {
         "id": "3",
         "title": "Example Latest News Story Three",
         "description": "Example latest news story three",
-        "url": "https://www.bing.com"
+        "url": "https://www.bing.com",
+        "date": "04-29-2026"
     }
 ]
