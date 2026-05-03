@@ -21,7 +21,7 @@
         "description": "The third example news story will appear here when called remotely.",
         "url": "https://www.bing.com",
         "date": "04-29-2026",
-        "section": Special"
+        "section": "Special"
     },
     {
         "id": "4",
