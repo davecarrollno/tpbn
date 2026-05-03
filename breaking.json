@@ -5,7 +5,7 @@
         "description": "This is an example description of news story one and should appear when called remotely.",
         "url": "https://raw.githubusercontent.com/davecarrollno/tpbn/refs/heads/main/news1.html",
         "date": "05-01-2026",
-        "section": "news"
+        "section": "News"
     },
     {
         "id": "2",
@@ -13,7 +13,7 @@
         "description": "Example news story two will appear second in-line and should appear next.",
         "url": "https://raw.githubusercontent.com/davecarrollno/tpbn/refs/heads/main/news1.html",
         "date": "04-30-2026",
-        "section": "editorial"
+        "section": "Editorial"
     },
     {
         "id": "3",
@@ -21,7 +21,7 @@
         "description": "The third example news story will appear here when called remotely.",
         "url": "https://www.bing.com",
         "date": "04-29-2026",
-        "section": "special"
+        "section": Special"
     },
     {
         "id": "4",
@@ -29,7 +29,7 @@
         "description": "The fourth example news story will appear here when called remotely.",
         "url": "https://www.bing.com",
         "date": "04-18-2026",
-        "section": "commentary"
+        "section": "Commentary"
     },
     {
         "id": "5",
@@ -37,6 +37,6 @@
         "description": "The fifth example news story will appear here when called remotely.",
         "url": "https://www.bing.com",
         "date": "04-14-2026",
-        "section": "news"
+        "section": "News"
     }
 ]
