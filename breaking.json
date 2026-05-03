@@ -4,34 +4,39 @@
         "title": "Example Latest News Story One",
         "description": "This is an example description of news story one and should appear when called remotely.",
         "url": "https://raw.githubusercontent.com/davecarrollno/tpbn/refs/heads/main/news1.html",
-        "date": "05-01-2026"
+        "date": "05-01-2026",
+        "section": "news"
     },
     {
         "id": "2",
-        "title": "Example Latest News Story Two",
+        "title": "Editorial On Current Affairs",
         "description": "Example news story two will appear second in-line and should appear next.",
         "url": "https://raw.githubusercontent.com/davecarrollno/tpbn/refs/heads/main/news1.html",
-        "date": "04-30-2026"
+        "date": "04-30-2026",
+        "section": "editorial"
     },
     {
         "id": "3",
-        "title": "Example Latest News Story Three",
+        "title": "View Our Special Report",
         "description": "The third example news story will appear here when called remotely.",
         "url": "https://www.bing.com",
-        "date": "04-29-2026"
+        "date": "04-29-2026",
+        "section": "special"
     },
     {
         "id": "4",
-        "title": "Example Latest News Story Four",
+        "title": "Commentary From Guest Writer",
         "description": "The fourth example news story will appear here when called remotely.",
         "url": "https://www.bing.com",
-        "date": "04-18-2026"
+        "date": "04-18-2026",
+        "section": "commentary"
     },
     {
         "id": "5",
         "title": "Example Latest News Story Five",
         "description": "The fifth example news story will appear here when called remotely.",
         "url": "https://www.bing.com",
-        "date": "04-14-2026"
+        "date": "04-14-2026",
+        "section": "news"
     }
 ]
