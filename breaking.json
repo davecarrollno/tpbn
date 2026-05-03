@@ -11,7 +11,7 @@
         "title": "Example Latest News Story Two",
         "description": "Example news story two will appear second in-line and should appear next.",
         "url": "https://raw.githubusercontent.com/davecarrollno/tpbn/refs/heads/main/news1.html",
-        "date": "04-29-2026"
+        "date": "04-30-2026"
     },
     {
         "id": "3",
@@ -19,5 +19,19 @@
         "description": "The third example news story will appear here when called remotely.",
         "url": "https://www.bing.com",
         "date": "04-29-2026"
+    },
+    {
+        "id": "4",
+        "title": "Example Latest News Story Four",
+        "description": "The fourth example news story will appear here when called remotely.",
+        "url": "https://www.bing.com",
+        "date": "04-18-2026"
+    },
+    {
+        "id": "5",
+        "title": "Example Latest News Story Five",
+        "description": "The fifth example news story will appear here when called remotely.",
+        "url": "https://www.bing.com",
+        "date": "04-14-2026"
     }
 ]
