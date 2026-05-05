@@ -4,7 +4,7 @@
     "title": "Community Meetup",
     "description": "Join us for drinks, stories, and dialogue about local initiatives.",
     "url": "https://yourapp.com/register/1",
-    "img": "https://cdn.yourdomain.com/events/march-meetup.jpg",
+    "img": "https://picsum.photos/200/300",
     "date": "March 15, 2024",
     "section": "Community"
   },
@@ -13,7 +13,7 @@
     "title": "Art & Expression Workshop",
     "description": "Explore creative outlets through guided sessions and open sharing.",
     "url": "https://yourapp.com/register/2",
-    "img": "https://cdn.yourdomain.com/events/apr-workshop.jpg",
+    "img": "https://picsum.photos/200/300",
     "date": "April 2, 2024",
     "section": "Workshop"
   }
