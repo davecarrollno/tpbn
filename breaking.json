@@ -4,7 +4,7 @@
         "title": "Example News Story One",
         "description": "News: AI.",
         "url": "https://raw.githubusercontent.com/davecarrollno/tpbn/refs/heads/main/news1.html",
-        "img": "https://picsum.photos/200/300",
+        "img": "https://picsum.photos/id/237/200/300",
         "date": "05-01-2026",
         "section": "News"
     },
