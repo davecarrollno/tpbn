@@ -3,8 +3,8 @@
         "id": "1",
         "title": "Example News Story One",
         "description": "News: AI.",
-        "url": "https://vendepunktet8.wordpress.com/articles/cautions-of-ai/",
-        "img": "https://vendepunktet8.wordpress.com/wp-content/uploads/2026/05/great_ai.png?allow_lossy=1",
+        "url": "https://raw.githubusercontent.com/davecarrollno/tpbn/refs/heads/main/news1.html",
+        "img": "https://picsum.photos/200/300",
         "date": "05-01-2026",
         "section": "News"
     },
